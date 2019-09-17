@@ -1,16 +1,18 @@
 # Workshop-Secomp
 **TUTORIAL**
 
-*1.0 - Variáveis*
+*0 - Introdução*
 
-*2.0 - Operadores*
+*1 - Variáveis*
 
-*3.0 - Repetição*
+*2 - Operadores*
 
-*4.0 - Funções*
+*3 - Repetição*
 
-*5.0 - Lista*
+*4 - Funções*
 
-*6.0 - Dicionário*
+*5 - Lista*
 
-*7.0 - Tipo de dados*
+*6 - Dicionário*
+
+*7 - Tipo de dados*
