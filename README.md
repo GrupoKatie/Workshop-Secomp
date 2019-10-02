@@ -1,3 +1,3 @@
 # Workshop-Secomp
-![Katie](https://drive.google.com/file/d/1ovkkPREYx-JE3ZYuX97jX7ajA69KiuXs/view?usp=sharing)
+![Katie](https://github.com/GrupoKatie/Workshop-Secomp/blob/master/KATIE%20(1).png)
 https://drive.google.com/file/d/12Quwd_bUPfrC0Mkigx3Bf-udkg89jTfG/view?usp=sharing
